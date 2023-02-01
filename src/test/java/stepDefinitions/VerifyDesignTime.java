@@ -9,7 +9,6 @@ import io.cucumber.java.en.When;
 import pageObjects.DesignTimePage;
 import pageObjects.LoginPage;
 import pageObjects.PageObjectManager;
-import utils.Log;
 import utils.TestSetup;
 
 public class VerifyDesignTime {
